@@ -1,0 +1,7 @@
+print("Informe dois números")
+a=int (input("primeiro número"))
+b=int (input("segundo número"))
+print('o resultado da adição é:',(a+b))
+print('o resultado da subtração é:',(a-b))
+print('o resultado da multiplicação é:',(a*b))
+print('o resultado da divisão é:',(a/b))
